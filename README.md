@@ -3,9 +3,9 @@
  
 Project Titles Include
 
->Travel gas mileage calculator application
->Digital lunch menu application
->Bank checking & savings account balance applicaiton 
+a). Travel gas mileage calculator application
+b). Digital lunch menu application
+c). Bank checking & savings account balance applicaiton 
 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
